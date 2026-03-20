@@ -19,5 +19,3 @@ function checkPassOrFail(marks) {
 console.log(checkPassOrFail(45)); // Expected: "Pass"
 console.log(checkPassOrFail(39)); // Expected: "Fail"
 console.log(checkPassOrFail(40)); // Expected: "Pass"
-
-module.exports = checkPassOrFail;
